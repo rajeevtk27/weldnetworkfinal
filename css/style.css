@@ -3628,6 +3628,7 @@ textarea.form-input {
 	margin-right: auto;
 	margin-left: auto;
 }
+
 @media only screen and (max-width: 992px) {
 	.thumbnail-simple__caption {
 		height: 275px !important 
