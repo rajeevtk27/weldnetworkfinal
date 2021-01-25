@@ -3634,6 +3634,7 @@ textarea.form-input {
 	border: 1px solid #dadbdc;
 	position: relative;
 	top: -1px;
+	height: 225px;
 }
 
 .thumbnail-simple__caption a:hover {
